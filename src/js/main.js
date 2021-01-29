@@ -1,4 +1,4 @@
-import { component } from 'lucia/dist/lucia.esm';
+import { component } from 'lucia/dist/legacy/lucia.esm';
 
 const app = component({ count: 0 });
 app.mount('#app');
