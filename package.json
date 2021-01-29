@@ -8,7 +8,7 @@
     "cleanup": "prettier -w src"
   },
   "dependencies": {
-    "lucia": "^0.4.0"
+    "lucia": "^0.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
