@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="icon" type="image/png" href="./assets/lucia-icon.png" />
+
+    <title>Lucia Starter</title>
+  </head>
+  <body>
+    <div id="app">
+      <img src="./assets/lucia-icon.png" height="100" />
+      <h2>Lucia Starter</h2>
+      <p>
+        Current Count: <b l-text="count"></b>
+      </p>
+
+      <button @click="count++">+</button>
+      <button @click="count--">-</button>
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
