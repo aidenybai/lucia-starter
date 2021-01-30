@@ -1,6 +1,6 @@
 # Lucia Starter
 
-> Note: You may not need this starter. Lucia can be integrated with just a script tag ([See CDN installation](https://lucia.js.org/docs/essentials/installation/#cdn)). However, if you want a more comprehensive, module based solution, without super complex build processes, use this.
+> Note: You may not need this starter. Lucia can be integrated with just a script tag ([See CDN installation](https://lucia.js.org/docs/fundementals/installation/#cdn)). However, if you want a more comprehensive, module based solution, without super complex build processes, use this.
 
 This starter is a project that is built with [Parcel](https://parceljs.org/) and uses [Lucia](https://lucia.js.org/) on the frontend. Feel free to install any Parcel compatible npm packages and import them as script tags in your markup.
 
