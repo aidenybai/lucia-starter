@@ -9,8 +9,9 @@ This starter is a project that is built with [Parcel](https://parceljs.org/) and
 ## Installation
 
 ```bash
-git clone https://github.com/aidenybai/lucia-starter.git
-cd lucia-starter
+npm init lucia-starter
+# OR
+npx lucia-starter
 ```
 
 ## Project setup
