@@ -1,5 +1,5 @@
 {
-  "name": "lucia-starter",
+  "name": "create-lucia-starter",
   "version": "0.0.1",
   "bin": "bin/setup",
   "scripts": {
