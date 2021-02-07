@@ -7,3 +7,4 @@ dist/
 development/
 .cache/
 .env
+bin/

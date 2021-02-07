@@ -1,6 +1,6 @@
 {
   "name": "create-lucia-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": "bin/setup",
   "scripts": {
     "dev": "npm run reset && parcel src/index.html --out-dir development -p 3000",

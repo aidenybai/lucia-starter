@@ -42,8 +42,6 @@ async function setup() {
     fs.unlinkSync(path.join(process.cwd(), "bin", "setup"));
     fs.rmdirSync(path.join(process.cwd(), "bin"));
     fs.unlinkSync(path.join(process.cwd(), ".npmignore"));
-
-    await runShellCmd(`cd lucia-starter`);
   } catch (error) {
     console.log(error);
   }
